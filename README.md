@@ -1,7 +1,7 @@
 
 <div align="center">
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chunwookJoo&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chunwookJoo)
 </div>
 
 <div align="center">
